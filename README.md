@@ -67,15 +67,9 @@
 <br />
 
 <div style="display: inline-block">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlessandroFMello&show_icons=true&locale=en&langs_count=6&layout=compact&theme=tokyonight" alt="AlessandroFMello" />
-  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AlessandroFMello&show_icons=true&locale=en&theme=tokyonight" alt="AlessandroFMello" />
-</div>
-<div style="display: inline-block">
-<a href="https://github.com/AlessandroFMello">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=AlessandroFMello&show_icons=true&title_color=af87ff&bg_color=22272e&icon_color=0ba2be&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=false" />
-</a> 
-  
-<a href="https://github.com/AlessandroFMello">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlessandroFMello&show_icons=true&locale=en&langs_count=6&layout=compact&theme=tokyonight" alt="Alessandro Stats" />
-</a>  
+  <a href="https://github.com/AlessandroFMello">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlessandroFMello&show_icons=true&locale=en&langs_count=6&layout=compact&theme=tokyonight" alt="AlessandroFMello" />
+  </a>
+  <a href="https://github.com/AlessandroFMello">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AlessandroFMello&show_icons=true&locale=en&theme=tokyonight" alt="AlessandroFMello" />
+  </a>
 </div>
