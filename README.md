@@ -74,9 +74,8 @@
   <a href="https://github.com/AlessandroFMello">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AlessandroFMello&show_icons=true&locale=en&theme=tokyonight" alt="AlessandroFMello" />
   </a>
   <div align="center">
-    <a href="#"><img alt="Alessandro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlessandroFMello&show_icons=true&locale=en&theme=tokyonight" height="200"/></a>
-    <a href="#"><img alt="Akshat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroFMello&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Alessandro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlessandroFMello&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Alessandro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroFMello&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=AlessandroFMello&label=Profile%20views&color=0e75b6&style=flat" alt="AlessandroFMello" /> </p>
-    <br/>
   </div>
 </div>
