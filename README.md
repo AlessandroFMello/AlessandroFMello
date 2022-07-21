@@ -1,4 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Alessandro</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlessandroFMello&label=Profile%20views&color=0e75b6&style=flat" alt="AlessandroFMello" />
+</p>
 <div style="display: inline_block" align="center"><br>
   <a href="https://www.linkedin.com/in/alessandro-fuhr-de-mello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/haveyoueverheardofalefuhr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -70,7 +73,4 @@
 <div align="center" style="display: flex">
   <a href="https://github.com/AlessandroFMello">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AlessandroFMello&show_icons=true&locale=en&langs_count=6&layout=compact&heme=tokyonight&hide_border=true&bg_color=0D1117" width="410" height="200" alt="Alessandro's Github Stats" /></a>
   <a href="https://github.com/AlessandroFMello"><img alt="Alessandro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroFMello&show_icons=true&locale=en&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="410" height="200"/></a>
-  <p align="center">
-     <img src="https://komarev.com/ghpvc/?username=AlessandroFMello&label=Profile%20views&color=0e75b6&style=flat" alt="AlessandroFMello" />
-  </p>
 </div>
