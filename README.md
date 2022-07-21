@@ -4,9 +4,9 @@
   <a href="https://www.instagram.com/haveyoueverheardofalefuhr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ale.95.mello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<h3 align="center">I'm a fullstack developer from Brazil.</h3>
+<h5 align="center">I'm a fullstack developer from Brazil.</h5>
 
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center">Languages and Tools:</h1>
 <div style="display: inline_block" align="center"><br>
   <a href="https://git-scm.com/">
     <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" heigth="50" />
