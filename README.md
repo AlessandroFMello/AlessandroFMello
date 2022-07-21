@@ -1,12 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Alessandro</h1>
-<div> 
+<div style="display: inline_block" align="center"><br>
   <a href="https://www.linkedin.com/in/alessandro-fuhr-de-mello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/haveyoueverheardofalefuhr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ale.95.mello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-![[[LinkedIn](https://www.linkedin.com/in/alessandro-fuhr-de-mello/)](https://www.linkedin.com/in/alessandro-fuhr-de-mello/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://www.instagram.com/haveyoueverheardofalefuhr/](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![mailto:ale.95.mello@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <h3 align="center">I'm a fullstack developer from Brazil.</h3>
 
 <h3 align="center">Languages and Tools:</h3>
