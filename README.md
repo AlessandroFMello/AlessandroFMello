@@ -6,7 +6,7 @@
 </div>
 <h4 align="center">I'm a Full Stack Web Developer from Brazil certified by Trybe whose goal is solving problems and connecting people.</h>
 
-<h1 align="center">Languages and Tools:</h1>
+### Languages and Tools
 <div style="display: inline_block" align="center"><br>
   <a href="https://git-scm.com/">
     <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" heigth="50" />
@@ -66,10 +66,22 @@
 </div>
 <br />
 
+### GITHUB STATS 
 <div style="display: inline-block">
   <a href="https://github.com/AlessandroFMello">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlessandroFMello&show_icons=true&locale=en&langs_count=6&layout=compact&theme=tokyonight" alt="AlessandroFMello" />
   </a>
   <a href="https://github.com/AlessandroFMello">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AlessandroFMello&show_icons=true&locale=en&theme=tokyonight" alt="AlessandroFMello" />
   </a>
+  <div align="center">
+    <a href="#"><img alt="Alessandro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlessandroFMello-1nC0re&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Akshat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroFMello-1nC0re&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=AlessandroFMello-1nc0re&label=Profile%20views&color=0e75b6&style=flat" alt="AlessandroFMello" /> </p>
+    <br/>
+  </div>
+
+  <hr/>
+  <div>
+    <a href="#"><img alt="Alessandro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AlessandroFMello-1nC0re&custom_title=Akshat%20Rastogi's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+  <div> 
 </div>
