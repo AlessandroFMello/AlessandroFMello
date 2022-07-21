@@ -67,6 +67,6 @@
 <br />
 
 <div style="display: inline-block">
-  <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlessandroFMello&show_icons=true&locale=en&langs_count=6&layout=compact&theme=tokyonight" alt="AlessandroFMello" />
-  &nbsp;<img align="right" height="160px" src="https://github-readme-stats.vercel.app/api?username=AlessandroFMello&show_icons=true&locale=en&theme=tokyonight" alt="AlessandroFMello" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlessandroFMello&show_icons=true&locale=en&langs_count=6&layout=compact&theme=tokyonight" alt="AlessandroFMello" />
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AlessandroFMello&show_icons=true&locale=en&theme=tokyonight" alt="AlessandroFMello" />
 </div>
