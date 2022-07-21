@@ -71,7 +71,8 @@
   <a href="https://github.com/AlessandroFMello">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlessandroFMello&show_icons=true&locale=en&langs_count=6&layout=compact&theme=tokyonight" alt="AlessandroFMello" />
   </a>
-  <a href="https://github.com/AlessandroFMello">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AlessandroFMello&show_icons=true&locale=en&theme=tokyonight" alt="AlessandroFMello" />
+  <a href="https://github.com/AlessandroFMello">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlessandroFMello&show_icons=true&locale=en&theme=tokyonight" alt="AlessandroFMello" />
   </a>
 
   <div align="center">
