@@ -23,10 +23,6 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" heigth="60"/>
   </a>
-</div>
-<br />
-
-<div style="display: inline_block" align="center"><br>
   <a href="https://reactjs.org/">
     <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" heigth="60"/>
   </a>
@@ -42,10 +38,6 @@
   <a href="https://testing-library.com/">
     <img alt="React Testing Library" src="https://testing-library.com/img/octopus-128x128.png" width="60" heigth="60" />
   </a>
-</div>
-<br />
-
-<div style="display: inline_block" align="center"><br>
   <a href="https://nodejs.dev/">
     <img alt="NodeJS" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/nodejs.png" width="60" heigth="60" />
   </a>
@@ -62,10 +54,6 @@
   <a href="https://sinonjs.org/">
     <img alt="Sinon" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/sinon.png" width="60" heigth="60" />
   </a>
-</div>
-<br />
-
-<div style="display: inline_block" align="center"><br>
   <a href="https://www.docker.com/">
     <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" heigth="60"/>
   </a>
