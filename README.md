@@ -71,6 +71,6 @@
 
 ### GITHUB STATS 
 <div align="center" style="display: flex">
-  <a href="https://github.com/AlessandroFMello">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AlessandroFMello&show_icons=true&locale=en&langs_count=6&layout=compact&heme=tokyonight&hide_border=true&bg_color=0D1117" width="430" height="200" alt="Alessandro's Github Stats" /></a>
+  <a href="https://github.com/AlessandroFMello">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AlessandroFMello&show_icons=true&locale=en&langs_count=6&layout=compact&heme=tokyonight&hide_border=true&bg_color=0D1117" width="410" height="200" alt="Alessandro's Github Stats" /></a>
   <a href="https://github.com/AlessandroFMello"><img alt="Alessandro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroFMello&show_icons=true&locale=en&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" height="180"/></a>
 </div>
