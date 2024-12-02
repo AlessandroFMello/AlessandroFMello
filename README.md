@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/alessandro-fuhr-de-mello/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:ale.95.mello@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:ale_95_f.mello@hotmail.com">
+    <img src="https://img.shields.io/badge/-Hotmail-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
 </div>
 <h4 align="center">I'm a Full Stack Web Developer from Brazil whose goal is solving problems and connecting people.</h>
