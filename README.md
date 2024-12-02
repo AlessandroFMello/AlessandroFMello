@@ -3,11 +3,14 @@
   <img src="https://komarev.com/ghpvc/?username=AlessandroFMello&label=Profile%20views&color=0e75b6&style=flat" alt="AlessandroFMello" />
 </p>
 <div style="display: inline_block" align="center"><br>
-  <a href="https://www.linkedin.com/in/alessandro-fuhr-de-mello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/haveyoueverheardofalefuhr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ale.95.mello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alessandro-fuhr-de-mello/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:ale.95.mello@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
-<h4 align="center">I'm a Full Stack Web Developer from Brazil certified by Trybe whose goal is solving problems and connecting people.</h>
+<h4 align="center">I'm a Full Stack Web Developer from Brazil whose goal is solving problems and connecting people.</h>
 
 ### Languages and Tools
 <div style="display: inline_block" align="center"><br>
@@ -29,6 +32,11 @@
   <a href="https://reactjs.org/">
     <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" heigth="50"/>
   </a>
+  
+</div>
+<br />
+
+<div style="display: inline_block" align="center"><br>
   <a href="https://nextjs.org/">
     <img alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" heigth="50"/>
   </a>
@@ -44,10 +52,14 @@
   <a href="https://nodejs.dev/">
     <img alt="NodeJS" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/nodejs.png" width="50" heigth="50" />
   </a>
-  
   <a href="https://www.typescriptlang.org/">
     <img alt="TypeScript" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/typescript.png" width="50" heigth="50" />
   </a>
+</div>
+<br />
+
+
+<div style="display: inline_block" align="center"><br>
   <a href="https://mochajs.org/">
     <img alt="Mocha" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/mocha.png" width="50" heigth="50" />
   </a>
@@ -67,6 +79,22 @@
     <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" heigth="50" />
   </a>
 </div>
+<br />
+<div style="display: inline_block" align="center"><br>
+  <a href="https://www.postgresql.org/">
+    <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" heigth="50" />
+  </a>
+  <a href="https://vuejs.org/">
+    <img alt="Vue3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" heigth="50" />
+  </a>
+  <a href="https://nuxtjs.org/">
+    <img alt="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="50" heigth="50" />
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" heigth="50" />
+  </a>
+</div>
+
 <br />
 
 ### GITHUB STATS 
