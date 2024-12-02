@@ -66,7 +66,7 @@
     <img alt="Sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50" heigth="50" />
   </a>
   <a href="https://www.prisma.io/">
-    <img alt="Prisma" src="[https://raw.githubusercontent.com/prisma/docs/main/src/images/prisma-favicon.png](https://img.icons8.com/?size=100&id=aqb9SdV9P8oC&format=png&color=000000)](https://img.icons8.com/?id=aqb9SdV9P8oC)" width="50" heigth="50" />
+    <img alt="Prisma" src="https://img.icons8.com/?id=aqb9SdV9P8oC" width="50" heigth="50" />
   </a>
 </div>
 <br />
