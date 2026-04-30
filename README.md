@@ -54,7 +54,7 @@ const alessandro = {
 
 #### Core & Foundations
 
-<div style="display: inline-block" align="center"><br>
+<div style="display: inline_block" align="center"><br>
   <a href="https://git-scm.com/">
     <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />&nbsp;
   </a>
@@ -67,6 +67,8 @@ const alessandro = {
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" />&nbsp;
   </a>
+</div>
+<div style="display: inline_block" align="center"><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />&nbsp;
   </a>
