@@ -35,9 +35,8 @@
 const alessandro = {
   role: "Full Stack Software Engineer",
   location: "Brazil 🇧🇷",
-  focus: ["Backend Architecture", "Event-Driven Systems", "Distributed Systems", "Cloud-Native"],
+  focus: ["Backend Architecture", "Event-Driven Systems", "Distributed Systems", "Cloud-Native", "System Design"],
   loves: ["Clean Architecture", "DDD", "TDD", "well-crafted APIs"],
-  currentlyLearning: ["Go", "System Design", "Kubernetes"],
   languages: ["Portuguese", "English"],
 };
 ```
@@ -160,8 +159,8 @@ const alessandro = {
   </tr>
 <br />
   <tr>
-    <td><img alt="Chai" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/chai.png" width="50" height="50" />&nbsp;</td>
-    <td><img alt="Sinon" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/sinon.png" width="50" height="50" />&nbsp;</td>
+    <td><img alt="Chai" src="https://www.chaijs.com/img/chai-logo.png" width="50" height="50" />&nbsp;</td>
+    <td><img alt="Sinon" src="https://sinonjs.org/assets/images/logo.png" width="50" height="50" />&nbsp;</td>
     <td><img alt="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="50" height="50" /></td>
   </tr>
 </table>
