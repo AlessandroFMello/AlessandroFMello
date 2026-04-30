@@ -54,16 +54,12 @@ const alessandro = {
 
 #### Core & Foundations
 
-<div align="center">
-  <a href="https://git-scm.com/">
-    <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />&nbsp;
-  </a>
-  <a href="https://www.linux.org/">
-    <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />&nbsp;
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" />&nbsp;
-  </a>
+<table align="center">
+  <tr>
+    <td><img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />&nbsp;</td>
+    <td><img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />&nbsp;</td>
+    <td><img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" />&nbsp;</td>
+  </tr>
 <br />
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" />&nbsp;
