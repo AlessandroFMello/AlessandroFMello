@@ -54,7 +54,7 @@ const alessandro = {
 
 #### Core & Foundations
 
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<div align="center">
   <a href="https://git-scm.com/">
     <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />&nbsp;
   </a>
@@ -64,9 +64,7 @@ const alessandro = {
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" />&nbsp;
   </a>
-</div>
 <br />
-<div style="display: inline_block" align="center"><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" />&nbsp;
   </a>
@@ -76,9 +74,7 @@ const alessandro = {
   <a href="https://www.typescriptlang.org/">
     <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />&nbsp;
   </a>
-</div>
 <br />
-<div style="display: inline_block" align="center"><br>
   <a href="https://www.python.org/">
     <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />&nbsp;
   </a>
