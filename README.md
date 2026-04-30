@@ -54,7 +54,7 @@ const alessandro = {
 
 #### Core & Foundations
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
   <a href="https://git-scm.com/">
     <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />&nbsp;
   </a>
