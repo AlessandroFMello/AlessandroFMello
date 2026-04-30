@@ -25,10 +25,6 @@
   <a href="mailto:ale_95_f.mello@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/AlessandroFMello">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Brazil%20%F0%9F%87%A7%F0%9F%87%B7-RS-009C3B?style=for-the-badge" alt="Brazil" />
 </div>
 
 ---
@@ -54,78 +50,73 @@ const alessandro = {
 
 ---
 
-### 🛠️ Languages & Tools
+<h3 align="center">🛠️ Languages & Tools</h3>
 
-#### Core & Foundations
-<div align="center">
-  <a href="https://git-scm.com/"><img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" /></a>
-  <a href="https://www.linux.org/"><img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" /></a>
-  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" /></a>
-  <a href="https://www.python.org/"><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" /></a>
-  <a href="https://www.java.com/"><img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" /></a>
-  <a href="https://go.dev/"><img alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="50" /></a>
-</div>
-<br />
+<h4 align="center">Core & Foundations</h4>
+<p align="center">
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />&nbsp;
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" />&nbsp;
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" />&nbsp;
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />&nbsp;
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="50" />
+</p>
 
-#### Backend
-<div align="center">
-  <a href="https://nodejs.org/"><img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" /></a>
-  <a href="https://nestjs.com/"><img alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="50" height="50" /></a>
-  <a href="https://www.fastify.io/"><img alt="Fastify" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="50" height="50" /></a>
-  <a href="https://expressjs.com/"><img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" /></a>
-  <a href="https://spring.io/projects/spring-boot"><img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" /></a>
-  <a href="https://kafka.apache.org/"><img alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" /></a>
-  <a href="https://redis.io/"><img alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" /></a>
-  <a href="https://socket.io/"><img alt="Socket.io" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="50" height="50" /></a>
-</div>
-<br />
+<h4 align="center">Backend</h4>
+<p align="center">
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" />&nbsp;
+  <img alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Fastify" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Socket.io" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="50" height="50" />
+</p>
 
-#### Frontend
-<div align="center">
-  <a href="https://reactjs.org/"><img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" /></a>
-  <a href="https://nextjs.org/"><img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" /></a>
-  <a href="https://redux.js.org/"><img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" /></a>
-  <a href="https://vuejs.org/"><img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" /></a>
-  <a href="https://nuxtjs.org/"><img alt="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="50" height="50" /></a>
-  <a href="https://quasar.dev/"><img alt="Quasar" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" width="50" height="50" /></a>
-  <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" /></a>
-</div>
-<br />
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Quasar" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" />
+</p>
 
-#### Databases & ORMs
-<div align="center">
-  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" /></a>
-  <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" /></a>
-  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" /></a>
-  <a href="https://www.oracle.com/database/"><img alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50" /></a>
-  <a href="https://aws.amazon.com/dynamodb/"><img alt="DynamoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" width="50" height="50" /></a>
-  <a href="https://www.prisma.io/"><img alt="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="50" height="50" /></a>
-  <a href="https://sequelize.org/"><img alt="Sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50" height="50" /></a>
-</div>
-<br />
+<h4 align="center">Databases & ORMs</h4>
+<p align="center">
+  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" />&nbsp;
+  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" />&nbsp;
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50" />&nbsp;
+  <img alt="DynamoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50" height="50" />
+</p>
 
-#### Cloud & DevOps
-<div align="center">
-  <a href="https://aws.amazon.com/"><img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" /></a>
-  <a href="https://www.docker.com/"><img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" /></a>
-  <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" /></a>
-  <a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" height="50" /></a>
-  <a href="https://www.nginx.com/"><img alt="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" height="50" /></a>
-</div>
-<br />
+<h4 align="center">Cloud & DevOps</h4>
+<p align="center">
+  <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" />&nbsp;
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" />&nbsp;
+  <img alt="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" height="50" />&nbsp;
+  <img alt="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" height="50" />
+</p>
 
-#### Testing
-<div align="center">
-  <a href="https://jestjs.io/"><img alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50" /></a>
-  <a href="https://testing-library.com/"><img alt="Testing Library" src="https://testing-library.com/img/octopus-128x128.png" width="50" height="50" /></a>
-  <a href="https://mochajs.org/"><img alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="50" height="50" /></a>
-  <a href="https://www.chaijs.com/"><img alt="Chai" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/chai.png" width="50" height="50" /></a>
-  <a href="https://sinonjs.org/"><img alt="Sinon" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/sinon.png" width="50" height="50" /></a>
-  <a href="https://vitest.dev/"><img alt="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="50" height="50" /></a>
-</div>
+<h4 align="center">Testing</h4>
+<p align="center">
+  <img alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50" />&nbsp;
+  <img alt="Testing Library" src="https://testing-library.com/img/octopus-128x128.png" width="50" height="50" />&nbsp;
+  <img alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="50" height="50" />&nbsp;
+  <img alt="Chai" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/chai.png" width="50" height="50" />&nbsp;
+  <img alt="Sinon" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/sinon.png" width="50" height="50" />&nbsp;
+  <img alt="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="50" height="50" />
+</p>
 
 ---
 
@@ -156,8 +147,4 @@ const alessandro = {
 
 <p align="center">
   <i>"Solving problems and connecting people through code."</i>
-</p>
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/AlessandroFMello">AlessandroFMello</a>
 </p>
