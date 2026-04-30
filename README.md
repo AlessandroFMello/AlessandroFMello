@@ -74,15 +74,9 @@ const alessandro = {
     <td><img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" />&nbsp;</td>
     <td><img alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="50" height="50" />&nbsp;</td>
     <td><img alt="Fastify" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="50" height="50" />&nbsp;</td>
-  </tr>
-<br />
-  <tr>
     <td><img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" />&nbsp;</td>
     <td><img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" />&nbsp;</td>
     <td><img alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" />&nbsp;</td>
-  </tr>
-<br />
-  <tr>
     <td><img alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" />&nbsp;</td>
     <td><img alt="Socket.io" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="50" height="50" /></td>
   </tr>
@@ -95,15 +89,9 @@ const alessandro = {
     <td><img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />&nbsp;</td>
     <td><img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" />&nbsp;</td>
     <td><img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" />&nbsp;</td>
-  </tr>
-<br />
-  <tr>
     <td><img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" />&nbsp;</td>
     <td><img alt="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="50" height="50" />&nbsp;</td>
     <td><img alt="Quasar" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" width="50" height="50" />&nbsp;</td>
-  </tr>
-<br />
-  <tr>
     <td><img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" /></td>
   </tr>
 </table>
@@ -115,15 +103,9 @@ const alessandro = {
     <td><img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" />&nbsp;</td>
     <td><img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" />&nbsp;</td>
     <td><img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />&nbsp;</td>
-  </tr>
-<br />
-  <tr>
     <td><img alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50" />&nbsp;</td>
     <td><img alt="DynamoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" width="50" height="50" />&nbsp;</td>
     <td><img alt="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="50" height="50" />&nbsp;</td>
-  </tr>
-<br />
-  <tr>
     <td><img alt="Sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50" height="50" /></td>
   </tr>
 </table>
@@ -135,9 +117,6 @@ const alessandro = {
     <td><img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" />&nbsp;</td>
     <td><img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />&nbsp;</td>
     <td><img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" />&nbsp;</td>
-  </tr>
-<br />
-  <tr>
     <td><img alt="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" height="50" />&nbsp;</td>
     <td><img alt="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" height="50" /></td>
   </tr>
@@ -150,9 +129,6 @@ const alessandro = {
     <td><img alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50" />&nbsp;</td>
     <td><img alt="Testing Library" src="https://testing-library.com/img/octopus-128x128.png" width="50" height="50" />&nbsp;</td>
     <td><img alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="50" height="50" />&nbsp;</td>
-  </tr>
-<br />
-  <tr>
     <td><img alt="Chai" src="https://www.chaijs.com/img/chai-logo.png" width="50" height="50" />&nbsp;</td>
     <td><img alt="Sinon" src="https://sinonjs.org/assets/images/logo.png" width="50" height="50" />&nbsp;</td>
     <td><img alt="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="50" height="50" /></td>
