@@ -2,33 +2,27 @@
 
 <p align="center">
   <a href="https://github.com/AlessandroFMello">
-    
     <img src="https://komarev.com/ghpvc/?username=AlessandroFMello&label=Profile%20views&color=0e75b6&style=flat" alt="AlessandroFMello" />
   </a>
   <a href="https://github.com/AlessandroFMello?tab=followers">
-    
     <img src="https://img.shields.io/github/followers/AlessandroFMello?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
   </a>
   <a href="https://github.com/AlessandroFMello">
-    
     <img src="https://img.shields.io/github/stars/AlessandroFMello?label=Stars&style=flat&color=0e75b6" alt="GitHub stars" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0BA2BE&center=true&vCenter=true&width=720&lines=Full+Stack+Software+Engineer;Problem+solver+%E2%80%94+language+agnostic;Event-Driven+%26+Distributed+Systems;Clean+Architecture+%26+DDD+enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alessandro-fuhr-de-mello/" target="_blank">
-    
     <img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ale_95_f.mello@hotmail.com">
-    
     <img src="https://img.shields.io/badge/-Email-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -41,8 +35,9 @@
 const alessandro = {
   role: "Full Stack Software Engineer",
   location: "Brazil 🇧🇷",
-  focus: ["Backend Architecture", "Event-Driven Systems", "Distributed Systems", "Cloud-Native", "System Design"],
+  focus: ["Backend Architecture", "Event-Driven Systems", "Distributed Systems", "Cloud-Native"],
   loves: ["Clean Architecture", "DDD", "TDD", "well-crafted APIs"],
+  currentlyLearning: ["Go", "System Design", "Kubernetes"],
   languages: ["Portuguese", "English"],
 };
 ```
@@ -141,31 +136,31 @@ const alessandro = {
   </a>
 </div>
 
+#### Testing
+
+<p align="center"><img alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50" />&nbsp;<img alt="Testing Library" src="https://testing-library.com/img/octopus-128x128.png" width="50" height="50" />&nbsp;<img alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="50" height="50" />&nbsp;<img alt="Chai" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/chai.png" width="50" height="50" />&nbsp;<img alt="Sinon" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/sinon.png" width="50" height="50" />&nbsp;<img alt="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="50" height="50" /></p>
+
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/AlessandroFMello">
-    
     <img src="https://github-readme-stats.vercel.app/api?username=AlessandroFMello&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" width="410" height="200" alt="Alessandro's Github Stats" />
   </a>
   <a href="https://github.com/AlessandroFMello">
-    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroFMello&show_icons=true&locale=en&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="410" height="180" alt="Alessandro's Top Languages" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/AlessandroFMello">
-    
     <img src="https://streak-stats.demolab.com?user=AlessandroFMello&theme=tokyonight&hide_border=true&background=0D1117" width="500" alt="GitHub Streak" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/AlessandroFMello">
-    
     <img src="https://github-profile-trophy.vercel.app/?username=AlessandroFMello&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
   </a>
 </div>
